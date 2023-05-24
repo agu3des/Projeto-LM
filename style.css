@@ -1,1 +1,59 @@
+html {
+  height: 100%;
+  width: 100%;
+}
 
+header {
+  position: absolute;
+  width: 1441px;
+  height: 89px;
+  left: -1px;
+  top: 0px;
+  background: url(figma.jpg);
+}
+
+h1 {
+  width: 146px;
+  height: 84px;
+  left: 15px;
+  top: 2px;
+  font-family: 'Pacifico', cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 84px;
+  color: #000000;
+}
+
+section {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px;
+  gap: 30px;
+  position: absolute;
+  left: calc(50% - 440px/2 - 1px);
+}
+
+section p.int {}
+
+footer {
+  background-color: rgba(190, 139, 139, 0.81);
+  padding: 20px;
+  text-align: left;
+}
+
+.social-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social-links a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: deeppink
+}
