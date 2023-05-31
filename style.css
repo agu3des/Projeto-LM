@@ -230,7 +230,7 @@ ul {
 
   section0 {
     flex-direction: column;
-    gap: 15px;
+    gap: 0px;
     background: url(figma.jpg);
     background-size: cover;
   }
@@ -255,7 +255,7 @@ ul {
 
   .carrossel {
     height: 300px;
-    margin-top: 10%;
+    margin-top: 100%;
   }
 
   .video {
