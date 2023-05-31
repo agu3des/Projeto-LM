@@ -14,6 +14,9 @@ Funcionalidades:
 4. Blocos contendo indicações de livros que ao serem clicados direcionam para sua compra.
 5. Sobre nós ao rodapé da página para os usuários entrarem em contato com a plataforma ou enviarem alguma indicação de livro.
 
+Requisitos Mínimos:
+Uma IDE e um navegador instalado.
+
 Repositório:
 https://github.com/agu3des/Projeto-LM
 
