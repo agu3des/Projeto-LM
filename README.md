@@ -17,6 +17,10 @@ Funcionalidades:
 Requisitos Mínimos:
 Uma IDE e um navegador instalado.
 
+Replit:
+Parte 1: https://projeto.agu3des.repl.co
+Parte 2: https://projeto-lm.agu3des.repl.co
+
 Repositório:
 https://github.com/agu3des/Projeto-LM
 
